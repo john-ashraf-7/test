@@ -14,16 +14,7 @@ void DisplayPalindromes(string input)
     cout << "test" << endl;
     while(correct)
     {
-      if(input[pivot+decrementer] == input[pivot+incrementer])
-      {
-        //in here, we need to complete the code.
-        cout << "hi guys" << endl;
-        cout << "wassup ayy" << endl;
-      }
-      else
-      {
-
-      }
+      
     }
     pivot++;
     incrementer++;
@@ -37,6 +28,8 @@ int main()
 {
   string input;
   cin >> input;
+  DisplayPalindromes(input);
+  DisplayPalindromes(input);
   DisplayPalindromes(input);
 
 }
