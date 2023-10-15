@@ -11,6 +11,7 @@ void DisplayPalindromes(string input)
     bool correct = true;
     int incrementer = 0;
     int decrementer = 0;
+    cout << "test" << endl;
     while(correct)
     {
       if(input[pivot+decrementer] == input[pivot+incrementer])
