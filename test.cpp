@@ -17,7 +17,7 @@ void DisplayPalindromes(string input)
       {
         //in here, we need to complete the code.
         cout << "hi guys" << endl;
-        
+        cout << "wassup ayy" << endl;
       }
       else
       {
